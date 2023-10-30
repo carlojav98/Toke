@@ -1,0 +1,5 @@
+workstation id=DB_boxing.mssql.somee.com;packet size=4096;user id=aloga_SQLLogin_1;pwd=zyukos2g92;data source=DB_boxing.mssql.somee.com;persist security info=False;initial catalog=DB_boxing
+
+
+
+https://github.com/Carlojavlop/boxing
